@@ -16,6 +16,7 @@ const Main = () => {
         <><div className="greet">
             <p><span>Helllo,Vennala(SATHVIKA)</span></p>
             <p>HAPPY NEW YEAR.......</p>
+            <p> 12 ki wish cheddunu ee website deployment ki time pattesindi andukee late</p>
         </div>
         <div className="cards">
             <div className="card">
