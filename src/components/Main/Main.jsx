@@ -14,8 +14,8 @@ const Main = () => {
 
         {!showResult?
         <><div className="greet">
-            <p><span>hello,SIBLEY.</span></p>
-            <p>how can i help you today</p>
+            <p><span>Helllo,Vennala(SATHVIKA)</span></p>
+            <p>HAPPY NEW YEAR.......</p>
         </div>
         <div className="cards">
             <div className="card">
