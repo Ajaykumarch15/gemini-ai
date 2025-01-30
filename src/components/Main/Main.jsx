@@ -7,15 +7,15 @@ const Main = () => {
   return (
     <div className='main'>
         <div className="nav">
-            <p>Gemini</p>
-            <img src={assets.user_icon} alt=""/>
+            <p>Queri</p>
+            <img src={assets.mainlogo} alt=""/>
         </div>
       <div className="main-container">
 
         {!showResult?
         <><div className="greet">
-            <p><span>hello,SIBLEY.</span></p>
-            <p>how can i help you today</p>
+            <p><span>Hello,SIBLEY.</span></p>
+            <p>how can i help you today?..</p>
         </div>
         <div className="cards">
             <div className="card">
